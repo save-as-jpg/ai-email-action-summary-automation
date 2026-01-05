@@ -55,3 +55,8 @@ This approach allows:
     { "task": "Read newsletter from skate brand", "priority": "Low" }
   ]
 }
+
+## Screenshots
+
+![Workflow](screenshots/Screenshot 2026-01-05 at 18.39.28.png)
+![Email Summary](screenshots/Screenshot 2026-01-05 at 18.40.00)
